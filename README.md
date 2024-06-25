@@ -1,2 +1,2 @@
 # GIT-1
-First exam
+First exam.
